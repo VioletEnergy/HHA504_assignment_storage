@@ -1,3 +1,6 @@
+# ignore my GCP secret file
+gcp_secret.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
