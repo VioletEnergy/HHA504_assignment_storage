@@ -5,23 +5,24 @@
 - Steps to upload a file in Azure Blob Storage:
 
 #### Step 1: Manual Image Upload
-![Azure Upload Screenshot](/Users/laura/Desktop/VSC Python Assignments/HHA504_assignment_storage/screenshots/Azure manual storage upload.png)
+![Azure Upload Step 1](screenshots/Azure_manual_storage_upload.png)
 
 #### Step 2: Python Code
-![Azure Upload Screenshot](./screenshots/Azure cloud storage python code.png)
+![Azure Upload Step 2](screenshots/Azure_cloud_storage_python_code.png)
 
 #### Step 3: Python Code Success
-![Azure Upload Screenshot](./screenshots/Azure Storage Python Code Success.png)
+![Azure Upload Step 3](screenshots/Azure_Storage_Python_Code_Success.png)
 
 ### GCP Cloud Storage
 - Steps to upload a file in GCP Cloud Storage:
 
 #### Step 1: Manual Image Upload
-![GCP Upload Screenshot](./screenshots/GCP storage manual upload.png)
+![GCP Upload Step 1](screenshots/GCP_storage_manual_upload.png)
 
 #### Step 2: Python Code
-![GCP Upload Screenshot](./screenshots/GCP cloud storage python code.png)
+![GCP Upload Step 2](screenshots/GCP_cloud_storage_python_code.png)
 
 #### Step 3: Python Code Success
-![GCP Upload Screenshot](./screenshots/GCP storage python code success.png)
+![GCP Upload Step 3](screenshots/GCP_storage_python_code_success.png)
 
+ 
