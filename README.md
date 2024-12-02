@@ -5,7 +5,7 @@
 - Steps to upload a file in Azure Blob Storage:
 
 #### Step 1: Manual Image Upload
-![Azure Upload Screenshot](./screenshots/Azure manual storage upload.png)
+![Azure Upload Screenshot](/Users/laura/Desktop/VSC Python Assignments/HHA504_assignment_storage/screenshots/Azure manual storage upload.png)
 
 #### Step 2: Python Code
 ![Azure Upload Screenshot](./screenshots/Azure cloud storage python code.png)
